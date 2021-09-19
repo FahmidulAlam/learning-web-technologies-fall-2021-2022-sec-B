@@ -1,0 +1,23 @@
+<information>
+	<info sl="01">
+		<ID>11</ID>
+		<NAME>Samsung</NAME>
+		<UNITp>35000</UNITp>
+		<STOCK>50</STOCK>
+		<STATUS>1</STATUS>
+	</info>
+	<info sl="02">
+		<ID>20</ID>
+		<NAME>HTC</NAME>
+		<UNITp>65300</UNITp>
+		<STOCK>35</STOCK>
+		<STATUS>0</STATUS>
+	</info>
+	<info sl="03">
+		<ID>23</ID>
+		<NAME>Nokia</NAME>
+		<UNITp>25100</UNITp>
+		<STOCK>100</STOCK>
+		<STATUS>1</STATUS>
+	</info>
+</information>
