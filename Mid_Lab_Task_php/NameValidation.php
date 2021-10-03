@@ -22,8 +22,8 @@
 	<form method="post">
 		<fieldset>
 			<legend>name</legend>>
-			Name<br> <input type="text" name="" value="">
-			<br><input type="submit" name="" value="Submit">
+			Name<br> <input type="text" name="myname" value="">
+			<br><input type="submit" name="submit" value="Submit">
 		</fieldset>
 	</form>
 </body>
