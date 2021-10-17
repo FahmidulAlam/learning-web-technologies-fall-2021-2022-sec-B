@@ -3,9 +3,9 @@
 	if(isset($_REQUEST['submit']))
 	{
 		$name = $_REQUEST['blood'];
-
-		if($name == ""){
-			echo "Null";
+		if($name == "")
+		{
+		    	echo "Null";
 		}
 		else{
 			echo "Your blood group is:".$name;
