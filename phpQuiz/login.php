@@ -6,7 +6,7 @@
  
 <form method="post" action="loginValidate.php">
     <fieldset>
-        <legend> <b> <font size="5px">Login  </font> </b> </legend>
+        <legend> <b>Login</b> </legend>
 
         <table>
             <tr>
@@ -21,7 +21,7 @@
         </table>
 
         <br>
-        <input type="submit" name="submit" value="submit"> <a href="register.php"> Register </a>
+        <input type="submit" name="submit" value="submit"> <a href="registration.php"> Register </a>
     </fieldset>
     
 </form>

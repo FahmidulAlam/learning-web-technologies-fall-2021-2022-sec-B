@@ -14,7 +14,7 @@
 					$myuser = explode('|', $data);
 					if(trim($myuser[0]) == $userid && trim($myuser[1]) == $password){
 						setcookie('flag', 'true', time()+3000, '/');
-						header('location: home.php');
+						header('location: adminHome.php');
 					}
 				}
 
