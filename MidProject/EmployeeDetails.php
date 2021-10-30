@@ -21,7 +21,7 @@
 		</tr>
 		<tr>
 			<td align="center" colspan="3" height="500px">
-				Employee Info
+				<a href="InsertEmployee.php">Insert Employee || </a> <a href="ViewEmployee.php">View Employee </a>
 			</td>
 		</tr>
 		<tr>

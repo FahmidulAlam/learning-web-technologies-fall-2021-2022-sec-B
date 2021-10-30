@@ -10,6 +10,6 @@
 		$_SESSION['myimage'] = $_FILES['myfile']['name'];
 		header('location: Event.php');
 	}else{
-		echo "error";
+		echo "Something Wrong!";
 	}
 ?>
