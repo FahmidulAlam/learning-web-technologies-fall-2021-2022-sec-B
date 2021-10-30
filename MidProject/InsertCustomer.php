@@ -5,25 +5,25 @@
 	
 </head>
 <body>
-	<form method="post" action="InsertEmployeeCheck.php">
+	<form method="post" action="InsertCustomerCheck.php">
 	<table border="1" width="100%">
 		<tr>
 			<td colspan="2" height="60px" width="10%"><img src="Logo.PNG" alt="FA Bank Ltd."></td>
-			 <td align="right"> <a href="AdminHome.php">Home | </a><a href="AdminRegistration.php">Registration | </a> <a href="LogoutCheck.php">Logout </a></td>
+			 <td align="right"> <a href="AdminHome.php">Home | </a><a href="AdminRegistration.php">Registration | </a> <a href="LogoutCheck.php">Logout </a> </a></td>
 		</tr>
 		<tr>
 			<td colspan="3" height="500px">
 
 					<fieldset>
-						<legend><b>Insert Employee</b></legend>
+						<legend><b>Insert Customer</b></legend>
 								  <fieldset><legend>ID</legend><input type="text" name="id" value=""></fieldset><br> 
 							      <fieldset><legend>Name</legend><input type = "text" name="name" value=""></fieldset><br>
 							      <fieldset>
-							      	<legend>Job Role</legend>
-										<select name="jobRole">
-											<option value="manager">Manager</option>
-											<option value="accountent">Accountent</option>
-											<option value="loanOfficer">Loan Officer</option>
+							      	<legend>Customer Type</legend>
+										<select name="customerType">
+											<option value="loan">Loan Acc Customer</option>
+											<option value="fixed">Fix Acc Customer</option>
+											<option value="savings">Savings Acc Customer</option>
 										</select>
 							      </fieldset><br>
 							      <input type="submit" name="submit" value="Submit">

@@ -5,7 +5,7 @@
 	}
  
 		$delimiter = ","; 
-		$content   = file('Employeedata.txt'); 
+		$content   = file('CustomerData.txt'); 
 		 
 		echo "<table>"; 
 		 

@@ -2,3 +2,4 @@
 Alam||123||Fahmidul||fahmidul.alam.bd@gmail.com||13 345 987||2021-10-02||male||employee
 Alam||123||Fahmidul||fahmidul.alam.bd@gmail.com||13 345 987||2021-10-02||male||employee
 Alam||123||Fahmidul||fahmidul.alam.bd@gmail.com||13 345 987||2021-10-02||male||employee
+rahat123||987||Rahat||rahat@gmail.com||123 147 9632||1990-02-05||male||customer

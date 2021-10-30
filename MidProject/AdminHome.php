@@ -9,7 +9,7 @@
 	<table border="1" width="100%">
 		<tr>
 			<td colspan="2" height="60px" width="10%"><img src="Logo.PNG" alt="FA Bank Ltd."></td>
-			 <td align="right"><a href="Event.php">Event | </a><a href="AdminRegistration.php">Registration | </a> <a href="Login.php">Login </a></td>
+			 <td align="right"><a href="Notice.php">Notice Board | </a><a href="Event.php">Event | </a><a href="AdminRegistration.php">Registration | </a> <a href="Login.php">Login </a></td>
 		</tr>
 		<tr>
 			<td align="center" colspan="3" height="500px">
